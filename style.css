@@ -18,7 +18,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* padding: 0.5rem 6rem; */
   margin: 0.5rem 6rem;
 }
 .logo img {
@@ -63,10 +62,6 @@ li a:hover {
   margin: 0.5rem 6rem;
   padding: 1rem 5rem;
   position: relative;
-  /* flex: 1 1 500px; */
-  /* background: url(./image/dm.png);
-  background-repeat: no-repeat;
-  background-position: center; */
 }
 
 .content-left {
